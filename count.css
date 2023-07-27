@@ -1,0 +1,33 @@
+#count {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+#fir {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+#outer {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    height: 300px;
+}
+
+#dec {
+    background-color: darkblue;
+    color: white;
+}
+
+#res {
+    background-color: darkblue;
+    color: white;
+}
+
+#inc {
+    background-color: darkblue;
+    color: white;
+}
